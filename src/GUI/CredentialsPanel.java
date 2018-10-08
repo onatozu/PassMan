@@ -1,6 +1,7 @@
 package GUI;
 
-import javax.swing.JPanel;
+import javax.swing.*;
+import java.awt.*;
 
 public class CredentialsPanel extends JPanel {
 

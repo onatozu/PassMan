@@ -15,6 +15,7 @@ public class PassMan {
 	}
 
 	public static void main(String[] args) {
+		System.out.println("Hey!");
 		// This will be our testbed
 		try {
 			new PassMan();
